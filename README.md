@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jmcdon-ld
-- 👀 I’m interested in programming, problem solving, and being part of something bigger than myself.
-- 🌱 I’m currently learning HTML, CSS, and Python.
-- 💞️ I’m looking to collaborate on open source projects.
+- 👀 I’m interested in servers, linux, problem solving, and being part of something bigger than myself.
+- 🌱 I’m currently learning Ansible, Shell Scripting, and Python.
 - 📫 How to reach me
 - email: beaminglight@proton.me
 - linkedin: https://www.linkedin.com/in/jamesmcdon/
